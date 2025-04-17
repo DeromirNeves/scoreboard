@@ -4,14 +4,12 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build",
-    "start": "next start",
+    "build": "next build --turbopack",
+    "start": "next start --turbopack",
     "lint": "next lint",
     "test": "jest"
   },
   "dependencies": {
-    "@babel/preset-env": "^7.26.9",
-    "@babel/preset-react": "^7.26.3",
     "next": "15.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
