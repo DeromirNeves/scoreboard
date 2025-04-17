@@ -3,9 +3,24 @@
 exports[`HelloWorld renders hello world 1`] = `
 <div>
   <div>
-    <p>
-      Hello World!
-    </p>
+    <span>
+      COL
+    </span>
+    <span>
+      1
+    </span>
+    <span>
+      x
+    </span>
+    <span>
+      2
+    </span>
+    <span>
+      FEC
+    </span>
+    <span>
+      71:12
+    </span>
   </div>
 </div>
 `;
